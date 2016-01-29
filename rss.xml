@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EdwardPatrickKranz]]></title>
+        <description><![CDATA[EdwardPatrickKranz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 20:08:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Equinoctial Pendulum Man]]></title>
+            <description><![CDATA[<article><h1>Equinoctial Pendulum Man</h1><p>How did it happen? I haven’t a clue. I once asked the brilliantly esteemed Stephen Hawking about my condition and an hour before I asked, in his synthesized voice, he told me, “…it was preposterously improbable even in a quantum universe with an infinite number of possibilities. You are just being a silly person.” It must be after the Spring Equinox.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a90ec5aa28773f9f591f9d1dffeddd0210cb12a.jpg"></article>]]></description>
+            <link>undefinedequinoctial-pendulum-man/index.html</link>
+            <guid isPermaLink="false">96ea8f8a-d7d6-4ef9-b81a-c12ae73760b8</guid>
+            <pubDate>Fri, 29 Jan 2016 20:08:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
