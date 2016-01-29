@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: A Short Story Based On A MEME
-datePublished: '2016-01-29T20:19:23.150Z'
+datePublished: '2016-01-29T20:19:23.166Z'
 dateModified: '2016-01-29T20:19:20.250Z'
 title: Equinoctial Pendulum Man
 author: []
