@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: A Short Story Based On A MEME
-datePublished: '2016-01-29T20:08:20.411Z'
-dateModified: '2016-01-29T19:57:56.868Z'
+datePublished: '2016-01-29T20:18:51.240Z'
+dateModified: '2016-01-29T20:18:37.392Z'
 title: Equinoctial Pendulum Man
 author: []
+sourcePath: _posts/2016-01-29-equinoctial-pendulum-man.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-equinoctial-pendulum-man.md
-published: true
 url: equinoctial-pendulum-man/index.html
 _type: Article
 
