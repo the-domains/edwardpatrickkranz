@@ -1,0 +1,26 @@
+---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: Information on the Kranz Books Bindery
+datePublished: '2016-01-29T22:37:40.536Z'
+dateModified: '2016-01-29T22:15:35.431Z'
+title: The Bindery
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-01-29-the-bindery.md
+published: true
+url: the-bindery/index.html
+_type: Article
+
+---
+Kranz Books bespoke book bindery for small run editions and custom hand-bound journals, albums, and other fantastically bound items!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4448b5ae-0765-4dfd-8441-cf2dbb7f60a7.jpg)
