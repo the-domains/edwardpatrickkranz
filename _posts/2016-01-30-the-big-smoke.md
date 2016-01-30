@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Ezju's Pipe"
-datePublished: '2016-01-30T01:43:21.161Z'
-dateModified: '2016-01-30T01:42:37.298Z'
+datePublished: '2016-01-30T01:45:42.468Z'
+dateModified: '2016-01-30T01:45:30.907Z'
 title: The Big Smoke
 author: []
+sourcePath: _posts/2016-01-30-the-big-smoke.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-the-big-smoke.md
-published: true
 url: the-big-smoke/index.html
 _type: Blurb
 
