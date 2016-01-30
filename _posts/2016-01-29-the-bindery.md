@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Information on the Kranz Books Bindery
-datePublished: '2016-01-29T22:37:40.536Z'
-dateModified: '2016-01-29T22:15:35.431Z'
+datePublished: '2016-01-30T03:06:51.262Z'
+dateModified: '2016-01-29T22:38:07.447Z'
 title: The Bindery
 author: []
+sourcePath: _posts/2016-01-29-the-bindery.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-the-bindery.md
-published: true
 url: the-bindery/index.html
 _type: Article
 
