@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Pleased to make your introduction
-datePublished: '2016-01-30T03:18:22.340Z'
-dateModified: '2016-01-30T03:16:53.916Z'
+datePublished: '2016-01-30T03:20:27.273Z'
+dateModified: '2016-01-30T03:19:41.058Z'
 title: Mr. Edward Patrick Ezju kranz
 author: []
+sourcePath: _posts/2016-01-30-mr-edward-patrick-ezju-kranz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-mr-edward-patrick-ezju-kranz.md
-published: true
 _type: Blurb
 
 ---
 I am not a saffron Cicada nor do I live in a marshmallow fluff-er-nutter sandwich, today.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ad5eb7-c650-4968-b53c-e600fec484e0.jpg)
 
 Edward Parick Kranz, better known as Ezju, is a native of Erie, Pennsylvania. He now makes Seattle, Washington his home after a decade of traveling the United States with his father and their construction company. He now lives with his wife, Antonyia, and their two beautiful children Tehya and Ayden.
 
