@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Information on the Kranz Books Bindery
-datePublished: '2016-01-30T03:10:38.203Z'
-dateModified: '2016-01-30T03:10:36.903Z'
+datePublished: '2016-01-30T03:30:28.041Z'
+dateModified: '2016-01-30T03:30:24.353Z'
 title: The Bindery
 author: []
 sourcePath: _posts/2016-01-29-the-bindery.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-bindery/index.html
-_type: Blurb
+_type: Article
 
 ---
 Kranz Books bespoke book bindery for small run editions and custom hand-bound journals, albums, and other fantastically bound items!
