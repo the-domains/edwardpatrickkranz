@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Info about Edward Patrick Ezju Kranz
-datePublished: '2016-01-30T03:30:04.582Z'
+datePublished: '2016-01-30T03:30:04.641Z'
 dateModified: '2016-01-30T03:29:59.243Z'
 title: About Ezju
 author: []
