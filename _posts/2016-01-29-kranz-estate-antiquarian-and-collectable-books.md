@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Info on Kranz Estate Antiquarian Books
-datePublished: '2016-01-30T03:34:42.765Z'
+datePublished: '2016-01-30T03:34:42.859Z'
 dateModified: '2016-01-30T03:31:32.219Z'
 title: 'Antiquarian & Collectable Books'
 author: []
