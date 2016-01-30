@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Info on Kranz Estate Antiquarian Books
-datePublished: '2016-01-29T23:06:03.870Z'
-dateModified: '2016-01-29T23:05:57.795Z'
+datePublished: '2016-01-30T03:09:35.686Z'
+dateModified: '2016-01-30T03:09:29.800Z'
 title: 'Kranz Estate Antiquarian & Collectable Books'
 author: []
 sourcePath: _posts/2016-01-29-kranz-estate-antiquarian-and-collectable-books.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: kranz-estate-antiquarian-and-collectable-books/index.html
-_type: Article
+_type: Blurb
 
 ---
 Antiquarian and collectable books!
