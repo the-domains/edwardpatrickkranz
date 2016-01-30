@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Info about Edward Patrick Ezju Kranz
-datePublished: '2016-01-30T03:10:04.051Z'
-dateModified: '2016-01-30T03:09:54.182Z'
+datePublished: '2016-01-30T03:30:04.582Z'
+dateModified: '2016-01-30T03:29:59.243Z'
 title: About Ezju
 author: []
 sourcePath: _posts/2016-01-29-about-ezju.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: about-ezju/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 Info, Bio, CV, etc...about Edward Patrick Ezju Kranz
