@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Information about the Artist, Author, and Bookbinder Edward Patrick Ezju Kranz'
-datePublished: '2016-02-02T02:35:34.307Z'
+datePublished: '2016-02-02T02:35:34.339Z'
 dateModified: '2016-02-02T02:35:31.715Z'
 title: About Ezju
 author: []
