@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Information on the Kranz Books book bindery
-datePublished: '2016-02-02T15:02:22.319Z'
+datePublished: '2016-02-02T15:02:22.374Z'
 dateModified: '2016-02-02T15:02:17.464Z'
 title: The Bindery
 author: []
