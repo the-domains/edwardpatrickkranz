@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Information on the Kranz Books book bindery
-datePublished: '2016-02-02T05:39:16.386Z'
-dateModified: '2016-02-02T05:39:04.382Z'
+datePublished: '2016-02-02T15:02:22.319Z'
+dateModified: '2016-02-02T15:02:17.464Z'
 title: The Bindery
 author: []
+sourcePath: _posts/2016-02-02-the-bindery.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-the-bindery.md
-published: true
 url: the-bindery/index.html
 _type: Article
 
