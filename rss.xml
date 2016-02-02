@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Edward Patrick Ezju Kranz]]></title>
+        <description><![CDATA[Edward Patrick Ezju Kranz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 02:11:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Short Biography]]></title>
+            <description><![CDATA[<article><h1>The Short Biography</h1><p>Ezju during the Fear the Beard (Dec 28th, 2015) photo shoot at Mukilteo Light House Beach</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd515d1119a7f17f6d4bc2663ba855a1cc1bd456.jpg"></article>]]></description>
+            <link>undefinedabout-ezju/index.html</link>
+            <guid isPermaLink="false">57c0873c-af13-4f7f-8de7-d11f300313b8</guid>
+            <pubDate>Tue, 02 Feb 2016 02:11:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
