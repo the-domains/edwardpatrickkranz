@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Information about the Artist, Author, and Bookbinder Edward Patrick Ezju Kranz'
-datePublished: '2016-02-02T02:11:31.664Z'
-dateModified: '2016-02-02T02:11:19.370Z'
+datePublished: '2016-02-02T02:14:29.139Z'
+dateModified: '2016-02-02T02:14:28.589Z'
 title: About Ezju
 author: []
+sourcePath: _posts/2016-02-02-about-ezju.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-about-ezju.md
-published: true
 url: about-ezju/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/38c14115b8d100d20fe9a175e8fe4e9865c9f0db.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd515d1119a7f17f6d4bc2663ba855a1cc1bd456.jpg)
 
 ## The Short Biography
 
