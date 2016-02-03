@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: A short animation written and animated by Edward Patrick Ezju Kranz
-datePublished: '2016-02-03T03:38:34.057Z'
-dateModified: '2016-02-03T03:38:11.647Z'
-title: Cleco Rises
+datePublished: '2016-02-03T22:10:07.150Z'
+dateModified: '2016-02-03T22:10:04.548Z'
+title: 'The Clairvoyant Briggs Willoughby & Cleco Rising'
 author: []
+sourcePath: _posts/2016-02-03-cleco-rises.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-cleco-rises.md
-published: true
 url: cleco-rises/index.html
 _type: Article
 
