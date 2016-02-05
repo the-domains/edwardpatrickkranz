@@ -4,11 +4,18 @@
         <description><![CDATA[Edward Patrick Ezju Kranz]]></description>
         <link>https://thegrid.ai/edwardpatrickkranz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 01:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 01:43:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edwardpatrickkranz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Art]]></title>
+            <description><![CDATA[<article><h1>The Art</h1><p>Late Night Drip 2005</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/844c39a249358502fcdab5a00478322ca3bad4e1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edwardpatrickkranz/the-art/index.html</link>
+            <guid isPermaLink="false">0fef2b9d-10d7-4fd9-9551-ec2ee8f293bc</guid>
+            <pubDate>Fri, 05 Feb 2016 01:41:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Words]]></title>
-            <description><![CDATA[<article><h1>The Words</h1><p>Secret Society of the Nine Unknown Men;  A Steampunk Pope Chronicle by Edward Patrick Ezju Kranz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb4ccb5c64b58df9944f3b3910d0d2495e16ab7f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Words</h1><p>Secret Society of the Nine Unknown Men;  A Steampunk Pope Chronicle by Edward Patrick Ezju Kranz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7311328ab9b0f49297528bdea141aec9a40fca7f.jpg"></article>]]></description>
             <link>https://thegrid.ai/edwardpatrickkranz/the-words/index.html</link>
             <guid isPermaLink="false">16079749-014f-43b7-bbb4-6e6f29984007</guid>
             <pubDate>Fri, 05 Feb 2016 01:41:30 GMT</pubDate>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/edwardpatrickkranz/cleco-rises/index.html</link>
             <guid isPermaLink="false">49dcc93a-5349-46e2-a50f-322dc4daf694</guid>
             <pubDate>Wed, 03 Feb 2016 22:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art]]></title>
-            <description><![CDATA[<article><h1>The Art</h1><p>Late Night Drip 2005</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75d0279dab80c2346606828ccc0b3a7746650827.jpg"></article>]]></description>
-            <link>https://thegrid.ai/edwardpatrickkranz/the-art/index.html</link>
-            <guid isPermaLink="false">0fef2b9d-10d7-4fd9-9551-ec2ee8f293bc</guid>
-            <pubDate>Tue, 02 Feb 2016 04:06:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
