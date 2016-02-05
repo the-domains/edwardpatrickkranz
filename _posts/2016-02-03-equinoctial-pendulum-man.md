@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: A short story about living a short amount of time ahead of everyone else and then again a short time behind
-datePublished: '2016-02-03T22:25:59.863Z'
-dateModified: '2016-02-03T22:25:45.796Z'
+datePublished: '2016-02-05T02:48:44.265Z'
+dateModified: '2016-02-05T02:48:42.522Z'
 title: Equinoctial Pendulum Man
 author: []
+sourcePath: _posts/2016-02-03-equinoctial-pendulum-man.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-equinoctial-pendulum-man.md
-published: true
 url: equinoctial-pendulum-man/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18acd77-61cf-41cc-a46d-4a175bd807f3.jpg)
+
 How did it happen? I haven't a clue. I once asked the brilliantly esteemed Stephen Hawking about my condition and an hour before I asked, in his synthesized voice, he told me, "...it was preposterously improbable even in a quantum universe with an infinite number of possibilities. You are just a silly person." It must be after the Spring Equinox. 
 
 The Funny thing is, my issue, whatever it is or, however, impossible it may seem, it doesn't even directly coincide with Day Light Savings Time. This year spring forward fell on March 13th at 2:00 AM. I fell one hour in the past on March 19th at 9:30 AM. I didn't even have a powerful Soothsayer to forebode my own personal Ides of March, which incidentally fell on March 15\. Today is my birthday, March 23rd. 
@@ -41,4 +43,3 @@ Nope. I didn't die. I just fell asleep and arrived a half-hour late! That was a 
 I remember the last Fall Equinox quite clearly. It was the first time I had to live one hour in the past. I was always playing catch up. 
 
 Today, March 23rd, 2016 I have this to say to you, "I greet you, people of the past, your ways are quaint."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18acd77-61cf-41cc-a46d-4a175bd807f3.jpg)
