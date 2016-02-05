@@ -4,7 +4,7 @@
         <description><![CDATA[Edward Patrick Ezju Kranz]]></description>
         <link>https://thegrid.ai/edwardpatrickkranz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 01:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 02:01:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edwardpatrickkranz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Art]]></title>
@@ -35,8 +35,14 @@
             <pubDate>Tue, 02 Feb 2016 15:03:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/KranzBooks/</link>
+            <guid isPermaLink="false">22cf0853-3c7e-44a0-9c21-1cb0a50a922a</guid>
+            <pubDate>Fri, 05 Feb 2016 01:59:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ezju Speed Drawing a Basic Cube in Two-Point Perspective]]></title>
-            <description><![CDATA[<article><h1>Ezju Speed Drawing a Basic Cube in Two-Point Perspective</h1><p>Ezju Speed Drawing a Basic Cube in Two-Point Perspective. Background music is Bar Fight by Los Lobos from the Desperado Soundtrack</p></article>]]></description>
+            <description><![CDATA[<article><h1>Ezju Speed Drawing a Basic Cube in Two-Point Perspective</h1><p>Ezju Speed Drawing a Basic Cube in Two-Point Perspective. Background music is Bar Fight by Los Lobos from the Desperado Soundtrack</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dbde846e80ae1b2bff71af5845568a8b2459ace.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=IaR5J8izFjI</link>
             <guid isPermaLink="false">95032c9a-47be-4531-965b-13c36e8c42ad</guid>
             <pubDate>Fri, 05 Feb 2016 01:56:06 GMT</pubDate>
@@ -68,13 +74,6 @@
             <link>https://www.etsy.com/listing/202938398/custom-copper-leather-coptic-handbound?ref=shop_home_feat_1</link>
             <guid isPermaLink="false">9a84af44-ac0b-4b12-852d-b16cf64d7300</guid>
             <pubDate>Fri, 05 Feb 2016 01:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KranzBooks]]></title>
-            <description><![CDATA[<article><h1>KranzBooks</h1><p>Custom order portfolio cases are now available! Protective clam shell box cases coming soon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9259dc8e712e4b270d24b1756a74e246bf159b5f.jpg"></article>]]></description>
-            <link>https://www.etsy.com/shop/KranzBooks</link>
-            <guid isPermaLink="false">0cf82210-d77e-47e7-a6eb-e5a6869949eb</guid>
-            <pubDate>Fri, 05 Feb 2016 01:48:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
