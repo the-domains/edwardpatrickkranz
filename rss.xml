@@ -4,8 +4,15 @@
         <description><![CDATA[Edward Patrick Ezju Kranz]]></description>
         <link>https://thegrid.ai/edwardpatrickkranz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 18:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 18:09:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edwardpatrickkranz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Adventures]]></title>
+            <description><![CDATA[<article><h1>The Adventures</h1><p>Travel & Adventure journalism, photo journalism, and video // films by Edward Patrick Ezju Kranz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/864e1c7094f639c9d89d409aadc7a7175aa9fc8e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/edwardpatrickkranz/the-adventures/index.html</link>
+            <guid isPermaLink="false">688abab7-2c7b-4eb8-ad54-1a11de07625a</guid>
+            <pubDate>Sat, 06 Feb 2016 18:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Art]]></title>
             <description><![CDATA[<article><h1>The Art</h1><p>Late Night Drip 2005</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75d0279dab80c2346606828ccc0b3a7746650827.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/edwardpatrickkranz/old-robe-trail-part-ii/index.html</link>
             <guid isPermaLink="false">61d4cbe2-8a0a-4f1d-9599-62abdbde1fc9</guid>
             <pubDate>Sat, 06 Feb 2016 17:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talas - English Style Finishing Stove]]></title>
-            <description><![CDATA[<article><h1>Talas - English Style Finishing Stove</h1><p>TalasOnline.com - English Style Finishing Stove</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddeaf3a36bbda278ea62137f98157681cc35124d.jpg"></article>]]></description>
-            <link>http://apps.bnt.com/ecom/catalog/product_specific.cfm?ClientID=15&amp;ProductID=21212</link>
-            <guid isPermaLink="false">bdf3fda9-15d0-4219-8838-ae1399927531</guid>
-            <pubDate>Fri, 05 Feb 2016 02:51:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
