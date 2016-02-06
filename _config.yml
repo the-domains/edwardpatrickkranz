@@ -1,6 +1,6 @@
 name: EdwardPatrickKranz
 favicon: null
-layout_spectrum: 0.85714
+layout_spectrum: 1
 typography_spectrum: 0.7171
 title: Edward Patrick Ezju Kranz
 cta:
@@ -22,8 +22,8 @@ color:
     - '#8e6583'
     - '#9baebc'
     - '#295f57'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.375
   saturation: 0.375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
