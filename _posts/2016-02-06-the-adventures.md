@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Travels & Adventures Journaled by Edward Patrick Ezju Kranz'
-datePublished: '2016-02-06T18:08:35.560Z'
-dateModified: '2016-02-06T18:08:24.576Z'
+description: 'Travel & Adventure journalism, photo journalism, and video // films by Edward Patrick Ezju Kranz'
+datePublished: '2016-04-14T04:03:19.260Z'
+dateModified: '2016-04-14T04:02:52.990Z'
 title: The Adventures
 author: []
+sourcePath: _posts/2016-02-06-the-adventures.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-06-the-adventures.md
-published: true
 url: the-adventures/index.html
 _type: Article
 
