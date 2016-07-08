@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Edward Patrick Kranz
+  email: ezju.kranz@gmail.com
 name: EdwardPatrickKranz
 cta:
   domain: null
