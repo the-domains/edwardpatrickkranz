@@ -1,20 +1,4 @@
-name: EdwardPatrickKranz
-favicon: null
-layout_spectrum: 0.24138
 typography_spectrum: 0.7171
-title: Edward Patrick Ezju Kranz
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#021420'
@@ -26,4 +10,20 @@ color:
   lightness: 0.375
   saturation: 0.375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24138
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: EdwardPatrickKranz
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Edward Patrick Ezju Kranz
 purpose: []
