@@ -1,11 +1,11 @@
 ---
 description: Writing Something
-dateModified: '2016-07-12T05:10:33.214Z'
-datePublished: '2016-07-12T05:11:14.880Z'
+dateModified: '2016-07-12T05:13:54.596Z'
+datePublished: '2016-07-12T05:13:55.133Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-12-writing-something.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
